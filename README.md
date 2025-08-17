@@ -170,15 +170,3 @@ This project follows enterprise development standards:
 
 This project is proprietary software developed for enterprise use. All rights reserved.
 
-## 📞 Support
-
-For technical support or enterprise inquiries:
-- **Email**: governance-support@company.com
-- **Documentation**: [Internal Wiki](https://wiki.company.com/governance-dashboard)
-- **Issue Tracking**: [JIRA Project](https://company.atlassian.net/governance)
-
----
-
-**Built with ❤️ for Enterprise AI Governance**
-
-*This application demonstrates advanced understanding of AI ethics, regulatory compliance, and enterprise software development practices aligned with IBM's commitment to responsible AI and data governance.*
